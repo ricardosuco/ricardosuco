@@ -2,6 +2,7 @@
 
 Sou desenvolvedor fullstack. Atualmente tenho trabalhado com Node e Vue, e ja fiz pequenos projetos utilizando o react.
 
+### Tecnologias que domino e/ou tenho interesse:
 <div style="display: inline_block"><br>
   <img align="center" alt="ricardosuco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ricardosuco-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
