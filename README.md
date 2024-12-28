@@ -16,7 +16,7 @@ Desenvolvedor fullstack javascript, atualmente tenho trabalhado com os framework
   <img align="center" alt="ricardosuco-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="ricardosuco-Vitest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" />
   <img align="center" alt="ricardosuco-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
-  <img align="center" alt="ricardosuco-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" />
+  <img align="center" alt="ricardosuco-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   
 </div>
 
